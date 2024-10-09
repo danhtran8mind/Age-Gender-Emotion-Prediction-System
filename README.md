@@ -45,7 +45,7 @@ The accuracy on real-world data is not yet optimal, despite good results on the 
 
 ## Training and evaluation
 
-All Training and evaluation stepp showed in forlder `training_notebooks` which 2 IPYNB are `Emotion.ipynb` and `Gender_Age.ipynb`.
+All Training and evaluation stepp showed in forlder `IS_project_source_code/training_notebooks` which 2 IPYNB are `Emotion.ipynb` and `Gender_Age.ipynb`.
 
 ## Software demotration
 
