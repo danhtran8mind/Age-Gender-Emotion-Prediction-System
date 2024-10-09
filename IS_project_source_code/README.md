@@ -14,7 +14,7 @@ By leveraging the `haarcascade_frontalface_default` [https://github.com/kipr/ope
 
 ### Demonstration Video
 
-![Demo Image](demo_video.mp4) 
+![Demo Video](https://github.com/danhtran8mind/computer-vision-1/raw/refs/heads/main/IS_project_source_code/demo_video.mp4) 
 
 This image demonstrates the face detection and attribute prediction process. 
 
