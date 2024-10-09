@@ -8,15 +8,17 @@ By leveraging the `haarcascade_frontalface_default` [https://github.com/kipr/ope
 * **Age Range:** The estimated age range of the person.
 * **Emotion:** The detected emotion expressed by the person.
 
-### Demonstration Image
+### Demonstration Image and Video
+This image demonstrates the face detection and attribute prediction process. 
+- Image
 
 ![Demo Image](demo_image.png) 
 
-### Demonstration Video
+- Video
 
-![Demo Video](https://github.com/danhtran8mind/computer-vision-1/raw/refs/heads/main/IS_project_source_code/demo_video.mp4) 
+[![Demo Video](https://github.com/danhtran8mind/computer-vision-1/blob/main/IS_project_source_code/demo_thumbnail.png)](https://github.com/danhtran8mind/computer-vision-1/raw/refs/heads/main/IS_project_source_code/demo_video.mp4)
 
-This image demonstrates the face detection and attribute prediction process. 
+
 
 ## Installation
 
