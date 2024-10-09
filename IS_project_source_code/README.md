@@ -2,7 +2,7 @@
 
 ## Fetures
 
-By leveraging the `haarcascade_frontalface_default` [https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml] from OpenCV, we can isolate the human face region and detect three key attributes of the individual:
+By leveraging the `haarcascade_frontalface_default` [haarcascade_frontalface_default](https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) from OpenCV, we can isolate the human face region and detect three key attributes of the individual:
 
 * **Age:**  The estimated age of the person.
 * **Age Range:** The estimated age range of the person.
@@ -16,7 +16,7 @@ This image demonstrates the face detection and attribute prediction process.
 
 - Video
 
-[![Demo Video](https://github.com/danhtran8mind/computer-vision-1/blob/main/IS_project_source_code/demo_thumbnail.png)](https://github.com/danhtran8mind/computer-vision-1/raw/refs/heads/main/IS_project_source_code/demo_video.mp4)
+![Demo Image](demo_image.gif) 
 
 
 
