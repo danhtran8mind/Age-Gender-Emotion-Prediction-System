@@ -1,13 +1,9 @@
 # Facial Recognition Classification
 
 ## Fetures
-By using the !(haarcascade_frontalface_default)[https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml] of OpenCV, we can extract human face region and detect 3 properties of this person include:
-age;
-range of age;
-emotion.
+By using the [haarcascade_frontalface_default](https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) of OpenCV, we can extract human face region and detect 3 properties of this person include: age; range of age; emotion.
 
-This is the demotration image:
-!(demo_image)['demo_image.png]
+This is the demotration image: [demo_image]('demo_image.png)
 ## Installation
 
 Install all required libraries by running the following command in your terminal:
