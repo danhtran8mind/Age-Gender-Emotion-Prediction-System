@@ -16,7 +16,7 @@ This image demonstrates the face detection and attribute prediction process.
 
 - Video
 
-![Demo Image](demo_image.gif) 
+![Demo Video](https://github.com/danhtran8mind/computer-vision-1/blob/main/IS_project_source_code/demo_video.gif) 
 
 
 
